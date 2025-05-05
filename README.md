@@ -25,19 +25,19 @@ This project uses **BERTopic** and **OpenRouter LLMs** to extract and summarize 
 ### 🖼️ Example Outputs
 
 #### 🔍 Topic Map – Intertopic Distance
-![Capture](https://github.com/user-attachments/assets/2e691670-ad20-49ad-b686-b807f37279f7)
+![Capture4](https://github.com/user-attachments/assets/cafa16a7-3fec-418e-aabd-59a79cb8ee5c)
 
 #### 🌲 Topic Hierarchy – Clustering of Themes
-![Hierarchical Clustering]![Capture1](https://github.com/user-attachments/assets/e2ca1fde-fcf6-437a-94b6-6248619f9196)
+![Capture1](https://github.com/user-attachments/assets/e2ca1fde-fcf6-437a-94b6-6248619f9196)
 
 #### 📊 Top-N Negative Topics
-![Negative Topics](images/Capture2.PNG)
+![Capture2](https://github.com/user-attachments/assets/601eaecb-7d48-4046-8b67-2214cb8b44b9)
 
 #### 📊 Top-N Positive Topics
-![Positive Topics](images/Capture3.PNG)
+![Capture3](https://github.com/user-attachments/assets/9bc9c394-f646-44eb-add0-52859811daed)
 
 #### 🧾 LLM-Generated Summaries by Segment
-![Summarized Insights](images/Capture4.PNG)
+![Capture4](https://github.com/user-attachments/assets/ca13de87-2f3c-43d0-a500-0e298c9fc89b)
 
 ---
 
