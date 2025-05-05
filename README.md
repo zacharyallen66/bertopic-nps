@@ -25,7 +25,7 @@ This project uses **BERTopic** and **OpenRouter LLMs** to extract and summarize 
 ### 🖼️ Example Outputs
 
 #### 🔍 Topic Map – Intertopic Distance
-![Intertopic Distance Map]![Capture](https://github.com/user-attachments/assets/2e691670-ad20-49ad-b686-b807f37279f7)
+![Capture](https://github.com/user-attachments/assets/2e691670-ad20-49ad-b686-b807f37279f7)
 
 #### 🌲 Topic Hierarchy – Clustering of Themes
 ![Hierarchical Clustering]![Capture1](https://github.com/user-attachments/assets/e2ca1fde-fcf6-437a-94b6-6248619f9196)
